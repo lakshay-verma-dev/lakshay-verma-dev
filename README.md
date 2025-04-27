@@ -2,8 +2,6 @@
 
 I'm a passionate **Full Stack Developer** with hands-on experience in building scalable, efficient web applications using the **MERN** stack, **TypeScript**, **Vue.js**, and other modern technologies. I enjoy transforming ideas into user-friendly digital solutions and continuously strive to improve my skills.
 
-🔭 I’m currently working at **DST Technology Pvt. Ltd.** as a Full-Stack Web Developer, developing real-time trade monitoring platforms.
-
 ---
 
 ## 🌱 **What I'm working on**
