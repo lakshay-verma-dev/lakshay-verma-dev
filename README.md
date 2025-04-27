@@ -44,7 +44,7 @@ You can find me solving problems and leveling up my skills here:
 ### **Book Inventory Management System**
 - Built a full-stack system for managing book listings with features like authentication, payments, and secure management.
 - Deployed on **Render** with a responsive UI using **React**, **Redux**, **Node.js**, **MongoDB**, and **Stripe**.
-- **GitHub Repository:** [inventory-hub](https://github.com/lakshayverma03/inventory-hub)
+- **GitHub Repository:** [inventory-hub](https://github.com/lakshay-verma-dev/inventory-hub)
 
 ---
 
