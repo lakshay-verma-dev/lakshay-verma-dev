@@ -40,14 +40,25 @@ You can find me solving problems and leveling up my skills here:
 
 ---
 
-## 🚀 **Personal Projects**
-### **Book Inventory Management System**
+## 🚀 Personal Projects
+
+### 📚 Book Inventory Management System
 - Built a full-stack system for managing book listings with features like authentication, payments, and secure management.
-- Deployed on **Render** with a responsive UI using **React**, **Redux**, **Node.js**, **MongoDB**, and **Stripe**.
-- **GitHub Repository:** [inventory-hub](https://github.com/lakshay-verma-dev/inventory-hub)
-- **Live Preview:** [inventory-hub](https://inventory-hub-1.onrender.com)
+- Implemented secure authentication (JWT, OTP with NodeMailer), real-time updates, and payment handling via **Stripe**.
+- Deployed on **Render** with a responsive UI using **React**, **Redux Toolkit**, **Node.js**, **MongoDB Atlas**, **Cloudinary**, and **Stripe**.
+- 🔗 **GitHub Repository:** [inventory-hub](https://github.com/lakshay-verma-dev/inventory-hub)  
+- 🌐 **Live Preview:** [inventory-hub](https://inventory-hub-1.onrender.com)
 
 ---
+
+### 🌐 Personal Portfolio Website
+- Developed a modern **Next.js + TypeScript** portfolio to showcase skills, projects, and activity across GitHub and LeetCode.
+- Features include scroll-based animations, interactive resume viewer, custom animated cursor, and a contact form with **EmailJS**/**NodeMailer** integration.
+- Integrated **GitHub API** and **react-github-calendar** to display real-time contributions and pinned repositories.
+- Styled using **Tailwind CSS** and **shadcn/ui**, with motion effects via **Framer Motion**.
+- 🔗 **GitHub Repository:** [NextJS_Portfolio](https://github.com/lakshay-verma-dev/NextJS_Portfolio)  
+- 🌐 **Live Preview:** [lakshayverma-portfolio.vercel.app](https://lakshayverma-portfolio.vercel.app)
+
 
 ## 📚 **Education**
 - **Bachelor of Computer Applications** - Kurukshetra University (Aug 2022 - Aug 2025)
