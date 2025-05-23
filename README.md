@@ -56,8 +56,8 @@ You can find me solving problems and leveling up my skills here:
 - Features include scroll-based animations, interactive resume viewer, custom animated cursor, and a contact form with **EmailJS**/**NodeMailer** integration.
 - Integrated **GitHub API** and **react-github-calendar** to display real-time contributions and pinned repositories.
 - Styled using **Tailwind CSS** and **shadcn/ui**, with motion effects via **Framer Motion**.
-- 🔗 **GitHub Repository:** [NextJS_Portfolio](https://github.com/lakshay-verma-dev/NextJS_Portfolio)  
-- 🌐 **Live Preview:** [lakshayverma-portfolio.vercel.app](https://lakshayverma-portfolio.vercel.app)
+- 🔗 **GitHub Repository:** [Portfolio](https://github.com/lakshay-verma-dev/NextJS_Portfolio)  
+- 🌐 **Live Preview:** [Portfolio](https://lakshayverma-portfolio.vercel.app)
 
 
 ## 📚 **Education**
